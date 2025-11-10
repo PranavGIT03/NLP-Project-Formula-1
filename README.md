@@ -1,6 +1,6 @@
-# NLP Project 24 Hours of LeMans
+# NLP Project Formula 1 
 
-# This project focuses on developing an NLP pipeline to extract key race events from unstructured text data such as    live commentary, driver/team reports, etc. related to the 24 Hours of Le Mans endurance race.
+# This project focuses on developing an NLP pipeline to extract key race events from unstructured text data such as    live commentary, driver/team reports, etc. related to the Formula1 races.
   The goal is to automatically identify and summarise important events (e.g, pit stops, crashes, overtakes, weather    changes) to help motorsport analysts and fans understand race dynamics.
 
 
